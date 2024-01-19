@@ -1,2 +1,2 @@
 # paleta-inovacao
-Inovação do projeto Paleta utilizando API para re
+Inovação do projeto Paleta utilizando API para REST + LangChain
